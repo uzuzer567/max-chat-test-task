@@ -9,7 +9,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/uzuzer567/max-chat-test-task.git
 ```
 
 ### 2. Перейти в директорию проекта
@@ -33,5 +33,5 @@ npm run dev
 После запуска приложение будет доступно по адресу:
 
 ```text
-http://localhost:5173
+http://localhost:3000
 ```
