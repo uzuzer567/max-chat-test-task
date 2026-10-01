@@ -1,0 +1,16 @@
+:root {
+  --accent: #3f7cff;
+  --accent-grad: linear-gradient(135deg, #3fb5ff 0%, #5b5bf7 55%, #a44cf0 100%);
+  --bg: #f1f2f6;
+  --panel: #ffffff;
+  --border: #e6e8ee;
+  --text: #1c1d21;
+  --muted: #8a8f9c;
+  --bubble-in: #ffffff;
+  --bubble-out: #dbe7ff;
+  --hover: #f3f5fa;
+  --active: #e8efff;
+  --danger: #e5484d;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  color: var(--text);
+}
