@@ -1,7 +1,5 @@
 # MAX Chat
 
-![Требования к тестовому заданию](https://drive.google.com/file/d/1Ut39kkIs0QK-swnCsIPJc6pNqVIVGOD2/view?pli=1)
-
 [Deploy](https://uzuzer567.github.io/max-chat-test-task/)
 
 ## Локальный запуск
